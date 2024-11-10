@@ -25,19 +25,19 @@ const ExampleJsx = () => {
     <article className="prose-m-none">
       <h1>
         <Balancer>
-          Servicios de personalización de Experto WordPress{" "}
-          <a href="webgae.com">9d8</a>.
+          Servicios de personalización de Experto WordPress
+          <a href="webgae.com">Webgae</a>.
         </Balancer>
       </h1>
       {/* Vercel Clone Starter */}
       <a
         className="h-16 block"
-        href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F9d8dev%2Fnext-wp&env=WORDPRESS_URL,WORDPRESS_HOSTNAME&envDescription=Add%20WordPress%20URL%20with%20Rest%20API%20enabled%20(ie.%20https%3A%2F%2Fwp.example.com)%20abd%20the%20hostname%20for%20Image%20rendering%20in%20Next%20JS%20(ie.%20wp.example.com)&project-name=next-wp&repository-name=next-wp&demo-title=Next%20JS%20and%20WordPress%20Starter&demo-url=https%3A%2F%2Fwp.9d8.dev"
+        href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%ximosa%2Fnext-wp1&env=WORDPRESS_URL,WORDPRESS_HOSTNAME&envDescription=Add%20WordPress%20URL%20with%20Rest%20API%20enabled%20(ie.%20https%3A%2F%2Fwp.example.com)%20abd%20the%20hostname%20for%20Image%20rendering%20in%20Next%20JS%20(ie.%20wp.example.com)&project-name=next-wp&repository-name=next-wp&demo-title=Next%20JS%20and%20WordPress%20Starter&demo-url=https%3A%2F%2Fwp.9d8.dev"
       >
         {/* eslint-disable-next-line */}
         <img
           className="not-prose my-4"
-          src="https://vercel.com/button"
+          src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKYrnrh3gKnagG-HCAb44qxmdDUO6sKVM2ntkNf5JM4gVtvwpPQ1TmJQ2UBpBuk2eOVbjQqhCMarOUq0guy76z-6-tlSuI0JFflGImsdKZFFoej9a5NzIVrDRYGf2jbyV1tpaVsjJcRs8J646OQHiJo72dsoV78RuOXNa5EfDXG5hDJjghhBtspWh-lHw/s1600/logo-1-150x150.png"
           alt="Deploy with Vercel"
         />
       </a>
