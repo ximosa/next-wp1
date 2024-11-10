@@ -25,8 +25,8 @@ const ExampleJsx = () => {
     <article className="prose-m-none">
       <h1>
         <Balancer>
-          Hello World, welcome to the Next.js and WordPress Starter by{" "}
-          <a href="https://9d8.dev">9d8</a>.
+          Servicios de personalización de Experto WordPress{" "}
+          <a href="webgae.com">9d8</a>.
         </Balancer>
       </h1>
       {/* Vercel Clone Starter */}
@@ -42,14 +42,11 @@ const ExampleJsx = () => {
         />
       </a>
       <p>
-        This is <a href="https://github.com/9d8dev/next-wp">next-wp</a>, created
-        as a way to build WordPress sites with Next.js at rapid speed. This
-        starter is designed with <a href="https://ui.shadcn.com">shadcn/ui</a>,{" "}
-        <a href="https://github.com/brijr/craft">brijr/craft</a>, and Tailwind
-        CSS. Use <a href="https://components.bridger.to">brijr/components</a> to
-        build your site with prebuilt components. The data fetching and
-        typesafety is handled in <code>lib/WordPress.ts</code> and{" "}
-        <code>lib/WordPress.d.ts</code>. Questions? Email 9d8dev@gmail.com
+      
+    Dígame qué desea cambiar o agregar a su sitio. 
+    Creamos y modificamos sitios web en WordPress. 
+    Todo el trabajo de manera rápida y eficiente.
+
       </p>
       <div className="grid md:grid-cols-3 gap-4 mt-6 not-prose">
         <Link
@@ -60,7 +57,7 @@ const ExampleJsx = () => {
           <span>
             Posts{" "}
             <span className="block text-sm text-muted-foreground">
-              All posts from your WordPress
+              Articulos
             </span>
           </span>
         </Link>
@@ -72,7 +69,7 @@ const ExampleJsx = () => {
           <span>
             Pages{" "}
             <span className="block text-sm text-muted-foreground">
-              Custom pages from your WordPress
+             Paginas
             </span>
           </span>
         </Link>
@@ -84,7 +81,7 @@ const ExampleJsx = () => {
           <span>
             Authors{" "}
             <span className="block text-sm text-muted-foreground">
-              List of the authors from your WordPress
+              Autores
             </span>
           </span>
         </Link>
@@ -96,7 +93,7 @@ const ExampleJsx = () => {
           <span>
             Tags{" "}
             <span className="block text-sm text-muted-foreground">
-              Content by tags from your WordPress
+              Tags
             </span>
           </span>
         </Link>
@@ -108,7 +105,7 @@ const ExampleJsx = () => {
           <span>
             Categories{" "}
             <span className="block text-sm text-muted-foreground">
-              Categories from your WordPress
+              Categorias
             </span>
           </span>
         </Link>
