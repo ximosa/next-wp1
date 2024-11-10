@@ -26,7 +26,6 @@ const ExampleJsx = () => {
       <h1>
         <Balancer>
           Servicios de personalización de Experto WordPress
-          <a href="webgae.com">Webgae</a>.
         </Balancer>
       </h1>
       {/* Vercel Clone Starter */}
