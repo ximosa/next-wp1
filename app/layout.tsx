@@ -26,10 +26,9 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "WordPress & Next.js Starter by 9d8",
-  description:
-    "A starter template for Next.js with WordPress as a headless CMS.",
-  metadataBase: new URL("https://wp.9d8.dev"),
+  title: "Experto WordPress",
+  description: "Obtenga soporte y desarrollo de WordPress  Personalización total Resolución de Problemas. ",
+  metadataBase: new URL("https://webgae.com"),
 };
 
 // Revalidate content every hour
@@ -102,7 +101,7 @@ const Nav = ({ className, children, id }: NavProps) => {
             ))}
           </div>
           <Button asChild className="hidden sm:flex">
-            <Link href="https://github.com/9d8dev/next-wp">Get Started</Link>
+            <Link href="https://webgae.com/">Webgae</Link>
           </Button>
           <MobileNav />
         </div>
